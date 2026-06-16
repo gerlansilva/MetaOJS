@@ -1,6 +1,6 @@
 # MetaOJS
 
-![MetaOJS](assets/metaojs_logo.svg)
+![MetaOJS](metaojs_logo.svg)
 
 **MetaOJS** é uma aplicação web em Python para coletar e enriquecer metadados de artigos científicos a partir de um **OpenAlex Author ID**. O fluxo combina:
 
